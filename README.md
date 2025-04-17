@@ -10,14 +10,12 @@ Tetap 100% Python dan gampang dimodif
 Ketik ini di CMD:
 
 bash
-Copy
-Edit
+
 pip install customtkinter
 Kalau error:
 
 bash
-Copy
-Edit
+
 python -m pip install customtkinter
 🔧 Step 2 – Gue Bikin Ulang GUI-nya dengan customtkinter
 Tunggu bentar, gue siapin langsung kasir_modern.py versi lebih ganteng 😎
@@ -31,27 +29,23 @@ Untuk jalankan script modern ini, kamu cukup install customtkinter dulu:
 
 📦 Di terminal / CMD, ketik:
 bash
-Copy
-Edit
+
 pip install customtkinter
 Atau kalau pakai Python versi spesifik:
 
 bash
-Copy
-Edit
+
 python -m pip install customtkinter
 💻 Setelah Itu:
 Simpan script tadi sebagai:
 
 makefile
-Copy
-Edit
+
 C:\PROJECT CODING\kasir\kasir_modern.py
 Jalankan:
 
 bash
-Copy
-Edit
+
 python kasir_modern.py
 🧾 Hasilnya:
 Tampilan lebih modern & bersih
